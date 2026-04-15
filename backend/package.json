@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "supabase start",
+    "build": "echo 'Supabase backend - use migrations'",
+    "db:types": "supabase gen types typescript --local > ../frontend/src/types/database.ts"
+  },
+  "devDependencies": {
+    "supabase": "^1.200.0"
+  }
+}

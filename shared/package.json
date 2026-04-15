@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./types/index.ts",
+  "types": "./types/index.ts",
+  "scripts": {
+    "build": "echo 'Shared types - no build needed'"
+  }
+}
