@@ -36,3 +36,9 @@ npm run dev --prefix frontend
 ## Deployment
 
 Frontend → Vercel. Supabase project already provisioned and linked.
+
+## Hackathon team
+
+- [@zlichtman](https://github.com/zlichtman) (Zach)
+- [@Nano-AI](https://github.com/Nano-AI) (Aditya)
+- [@Jaclyn-H](https://github.com/Jaclyn-H) (Jaclyn)
